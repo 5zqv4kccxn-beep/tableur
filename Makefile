@@ -1,0 +1,23 @@
+Q ?= @
+CC = arm-none-eabi-gcc
+BUILD_DIR = output
+NWLINK = npx --yes -- nwlink@0.0.16
+src = src/main.c src/content.c
+CFLAGS = -std=c99 $(shell $(NWLINK) eadk-cflags) -Os -Wall -ggdb -fdata-sections -ffunction-sections
+LDFLAGS = -Wl,--relocatable -nostartfiles --specs=nano.specs -Wl,-e,main -Wl,-u,eadk_app_name -Wl,-u,eadk_api_level -Wl,--gc-sections
+.PHONY: build clean check
+build: $(BUILD_DIR)/app.nwa
+check: $(BUILD_DIR)/app.bin
+$(BUILD_DIR)/app.nwa: $(BUILD_DIR)/main.o $(BUILD_DIR)/content.o $(BUILD_DIR)/icon.o
+	@mkdir -p $(BUILD_DIR)
+	$(Q)$(CC) $(CFLAGS) $(LDFLAGS) $^ -o $@
+$(BUILD_DIR)/%.o: src/%.c | $(BUILD_DIR)
+	$(Q)$(CC) $(CFLAGS) -c $< -o $@
+$(BUILD_DIR)/icon.o: src/icon.png | $(BUILD_DIR)
+	$(Q)$(NWLINK) png-icon-o $< $@
+$(BUILD_DIR)/app.bin: $(BUILD_DIR)/app.nwa src/input.txt
+	$(Q)$(NWLINK) nwa-bin --external-data src/input.txt $< $@
+$(BUILD_DIR):
+	$(Q)mkdir -p $@
+clean:
+	$(Q)rm -rf $(BUILD_DIR)

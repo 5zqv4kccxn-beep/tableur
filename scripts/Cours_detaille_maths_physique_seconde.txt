@@ -1,0 +1,1016 @@
+COURS DETAILLE
+MATHEMATIQUES &
+PHYSIQUE-CHIMIE
+Classe de Seconde
+Programme 2019 - methodes,
+formules et exercices resolus
+Comprendre - Modeliser -
+Calculer - Verifier
+Document de synthese pour
+lapprentissage et la revision
+
+MATHEMATIQUES
+Table des matieres
+Reperes : chaque chapitre
+alterne cours, formules cles,
+proprietes et applications
+guidees. Les
+unites sont rappelees
+lorsquelles sont
+indispensables.
+PARTIE I - MATHEMATIQUES
+- 1. Nombres et calculs
+- 2. Fonctions
+- 3. Geometrie dans le plan
+- 4. Geometrie dans lespace
+- 5. Statistiques et
+probabilites
+- 6. Algorithmique et
+programmation
+PARTIE II - PHYSIQUE-CHIMIE
+- 1. Constitution et
+transformations de la matiere
+- 2. Mouvement et interactions
+- 3. Ondes et signaux
+- 4. Signaux et capteurs
+Methode generale
+Lire les donnees et les unites
+; choisir une representation
+(schema, tableau, graphique ou
+equation) ; appliquer une
+propriete en justifiant ;
+effectuer le calcul ;
+controler le signe,
+lunite et lordre de grandeur.
+Cours de Seconde - page 2
+
+MATHEMATIQUES
+PARTIE I
+MATHEMATIQUES
+Cours de Seconde - page 3
+
+MATHEMATIQUES
+Chapitre 1 - Nombres et
+calculs
+Objectifs
+Manipuler les reels, les
+puissances et les racines ;
+traduire une condition par un
+intervalle ;
+resoudre une inequation et
+encadrer un resultat.
+Definitions - reels et
+intervalles
+Lensemble des nombres reels se
+note R. Un intervalle [a;b]
+contient ses bornes ; ]a;b[ ne
+les contient pas ; [a;b[
+contient a mais pas b. Une
+valeur absolue |x| represente
+la distance
+de x a 0.
+Formules cles
+Pour a >= 0, sqrta est lunique
+reel positif dont le carre
+vaut a. Pour a,b >= 0 :
+sqrt(ab)=sqrtasqrtb et
+-n n
+sqrt(a/b)=sqrta/sqrtb (b=0).
+Pour a=0 : a =1/a .
+1. Calculer sans perdre le
+sens
+Les regles de priorite sont :
+parentheses,
+puissances/racines,
+multiplications et divisions,
+puis
+additions et soustractions.
+Une fraction represente un
+quotient : on ne simplifie un
+facteur que sil
+est commun au numerateur et au
+denominateur.
+m n m+n m n mn m n m-n
+a x a = a ; (a ) = a ; a /a =
+a (a = 0)
+Simplifier A = 3sqrt12 -
+sqrt27.
+Etape 1. Factoriser les
+radicandes par des carres
+parfaits :
+sqrt12=sqrt(4x3)=2sqrt3 et
+sqrt27=sqrt(9x3)=3sqrt3.
+Etape 2. Remplacer puis
+regrouper les termes de meme
+nature : A=3x2sqrt3-3sqrt3=6sq
+rt3-3sqrt3.
+Conclusion. A=3sqrt3.
+2. Valeur absolue, distance et
+inequations
+|x|=a (a>=0) equivaut a x=a ou
+x=-a. |x|<=a equivaut a
+-a<=x<=a ; |x|>=a equivaut a
+x<=-a ou x>=a.
+Lorsquon multiplie ou divise
+une inequation par un nombre
+negatif, le sens du signe
+sinverse.
+Resoudre 3x-5<=7.
+Etape 1. Ajouter 5 aux deux
+membres : 3x<=12.
+Etape 2. Diviser par 3,
+positif : x<=4.
+Etape 3. Ecrire lensemble
+solution : ]-inf;4].
+Conclusion. La droite graduee
+est un bon controle : toutes
+les valeurs a gauche de 4
+conviennent.
+3. Encadrements et ordre de
+grandeur
+Pour additionner des
+encadrements, on additionne
+les bornes correspondantes.
+Pour une
+multiplication, le signe des
+bornes doit etre examine. Une
+valeur approchee doit etre
+Cours de Seconde - page 4
+
+MATHEMATIQUES
+accompagnee dune precision (au
+dixieme, au centieme...).
+Encadrer sqrt20 au centieme.
+Etape 1. Comme 4<20<25 et que
+la fonction carre est
+croissante sur [0;+inf[,
+2<sqrt20<5.
+Etape 2. Tester 4,47^2=19,9809
+et 4,48^2=20,0704 :
+4,47<sqrt20<4,48.
+Conclusion. sqrt20~4,47 au
+centieme.
+A retenir : toujours verifier
+le domaine (denominateur non
+nul, radicande positif) avant
+de transformer une
+expression.
+Cours de Seconde - page 5
+
+MATHEMATIQUES
+Chapitre 2 - Fonctions
+Objectifs
+Lire et produire une image,
+retrouver un antecedent,
+decrire les variations et
+utiliser les
+fonctions de reference.
+Definition - fonction
+Une fonction f associe a
+chaque nombre x dun ensemble
+de depart au plus une valeur
+f(x),
+appelee image de x. Un nombre
+x tel que f(x)=k est un
+antecedent de k.
+Proprietes - variations
+f est croissante sur un
+intervalle si x<y implique
+f(x)<=f(y). Elle est
+decroissante si x<y
+implique f(x)>=f(y). Un
+tableau de variations
+synthetise ces informations.
+1. Trois representations
+complementaires
+Une fonction peut etre donnee
+par une formule, un tableau de
+valeurs ou une courbe. Pour
+lire f(2),
+on part de 2 sur laxe des
+abscisses, on rejoint la
+courbe, puis on lit lordonnee.
+Pour resoudre
+f(x)=3, on cherche les
+abscisses des points de la
+courbe dordonnee 3.
+Soit f(x)=2x-3. Calculer
+limage de 4 et lantecedent de
+7.
+Etape 1. Image : f(4)=2x4-3=5.
+Etape 2. Antecedent : resoudre
+2x-3=7, donc 2x=10 puis x=5.
+Conclusion. Limage de 4 est 5
+; lunique antecedent de 7 est
+5.
+2. Fonctions de reference
+Fonction Expression Reperes
+Affine f(x)=ax+b droite ;
+croissante si a>0,
+decroissante si a<0
+Carre f(x)=x^2 paire ; decroit
+sur ]-inf;0] puis croit sur
+[0;+inf[
+Inverse f(x)=1/x definie sur R
+prive de 0 ; deux branches
+Racine carree f(x)=sqrtx
+definie sur [0;+inf[ ;
+croissante
+Cube f(x)=x^3 impaire ;
+strictement croissante sur R
+Pour f(x)=ax+b : coefficient
+directeur a = (y2-y1)/(x2-x1)
+si x1 = x2
+Etudier le sens de variation
+de f(x)=-3x+2.
+Etape 1. La fonction est
+affine de coefficient
+directeur a=-3.
+Etape 2. Comme a<0, f est
+decroissante sur R.
+Etape 3. Controle direct : si
+x-3y, donc -3x+2>-3y+2.
+Conclusion. f est strictement
+decroissante sur R.
+3. Resoudre graphiquement
+Cours de Seconde - page 6
+
+MATHEMATIQUES
+Les intersections de la courbe
+de f avec laxe des abscisses
+donnent les solutions de
+f(x)=0. Pour
+une inequation, on repere les
+portions de courbe situees
+au-dessus ou au-dessous de la
+droite
+horizontale correspondante.
+Cours de Seconde - page 7
+
+MATHEMATIQUES
+Chapitre 3 - Geometrie dans le
+plan
+Objectifs
+Utiliser coordonnees et
+vecteurs ; tester la
+colinearite ; determiner une
+equation de droite
+et reconnaitre parallelisme ou
+orthogonalite.
+Definitions - coordonnees et
+vecteurs
+Dans un repere orthonorme,
+M(x;y). Le vecteur AB a pour
+coordonnees (xB-xA ; yB-yA).
+Deux vecteurs sont colineaires
+sil existe k tel que u=k v.
+Formules cles
+AB=sqrt((xB-xA)^2+(yB-yA)^2).
+Pour u(x;y) et v(x;y),
+det(u,v)=xy-yx ; colinearite
+det=0.
+Produit scalaire uv=xx+yy ;
+orthogonalite uv=0.
+1. Coordonnees et milieu
+Milieu de [AB] : M((xA+xB)/2 ;
+(yA+yB)/2)
+A(-2;3), B(4;-1). Determiner
+AB et le milieu.
+Etape 1. AB=(6;-4). Sa
+longueur vaut sqrt(6^2+(-4)^2)
+=sqrt52=2sqrt13.
+Etape 2. M=((-2+4)/2 ;
+(3-1)/2)=(1;1).
+Conclusion. AB=2sqrt13 et
+M(1;1).
+2. Droites
+Une droite non verticale admet
+une equation reduite y=mx+p. m
+est le coefficient directeur
+et p
+lordonnee a lorigine. Une
+equation cartesienne ax+by+c=0
+permet aussi de decrire une
+droite
+verticale.
+Droite passant par A(1;2) et
+B(3;6).
+Etape 1. m=(6-2)/(3-1)=2.
+Etape 2. Avec A : 2=2x1+p,
+donc p=0.
+Conclusion. Lequation est
+y=2x.
+3. Parallelisme et
+orthogonalite
+Deux droites sont paralleles
+si leurs vecteurs directeurs
+sont colineaires (ou si leurs
+coefficients
+directeurs sont egaux). Dans
+un repere orthonorme, deux
+droites de coefficients m et m
+sont
+perpendiculaires si mm=-1
+lorsque les deux coefficients
+sont definis.
+Cours de Seconde - page 8
+
+MATHEMATIQUES
+u(2;-3) et v(-4;6) sont-ils
+colineaires ?
+Etape 1. det(u,v)=2x6-(-3)x(-4
+)=12-12=0.
+Etape 2. Le determinant nul
+montre la colinearite ; v=-2u.
+Conclusion. Oui, les vecteurs
+sont colineaires.
+Cours de Seconde - page 9
+
+MATHEMATIQUES
+Chapitre 4 - Geometrie dans
+lespace
+Objectifs
+Identifier les solides,
+calculer longueurs, aires et
+volumes ; comprendre une
+section plane ;
+mobiliser Thales dans des
+configurations spatiales.
+Solides usuels
+Prisme droit : deux bases
+paralleles et superposables.
+Cylindre : deux disques
+paralleles.
+Pyramide et cone : une base et
+un sommet. Sphere : ensemble
+des points a distance R
+dun centre.
+Formules de volumes
+Prisme/cylindre : V=Bxh.
+Pyramide/cone : V=(1/3)Bxh.
+Boule : V=(4/3)piR^3. Pour un
+cylindre, B=piR^2.
+1. Sections planes
+Une section est lintersection
+dun solide avec un plan. Un
+plan parallele a la base dun
+prisme
+donne une section de meme
+forme et de meme aire que la
+base. Une section parallele a
+la base
+dune pyramide est une figure
+semblable a la base, mais
+reduite.
+Schema a reproduire
+Dessiner un pave droit
+ABCDEFGH, puis un plan
+parallele a la base ABCD. La
+section est un
+rectangle situe entre les deux
+bases. Pour une pyramide,
+tracer un triangle de coupe
+parallele a la base : les
+aretes laterales sont
+partagees dans un meme
+rapport.
+2. Thales dans lespace
+Dans deux plans paralleles,
+une projection depuis un point
+conserve les rapports de
+longueurs sur
+les droites secantes. Si une
+pyramide est coupee par un
+plan parallele a sa base et si
+SA/SA=k,
+alors toutes les longueurs de
+la section sont multipliees
+par k et les aires par k^2 ;
+les volumes
+correspondants par k^3.
+Longueurs : k ; aires : k^2 ;
+volumes : k^3
+Une pyramide de hauteur 12 cm
+est coupee a 5 cm du sommet
+par un plan parallele a la
+base.
+Le volume total vaut 360 cm^3.
+Volume de la petite pyramide ?
+Etape 1. Le rapport de
+reduction est k=5/12.
+Etape 2. Les volumes sont dans
+le rapport k^3 :
+Vpetite=360x(5/12)^3.
+Etape 3. Calcul :
+(5/12)^3=125/1728, donc
+Vpetite~26,0 cm^3.
+Conclusion. Le volume de la
+petite pyramide est environ 26
+cm^3.
+3. Unites et controle
+Une longueur sexprime en unite
+de longueur, une aire en unite
+carree, un volume en unite
+cubique. Avant un calcul de
+volume, convertir toutes les
+dimensions dans la meme unite.
+Cours de Seconde - page 10
+
+PHYSIQUE-CHIMIE
+Chapitre 5 - Statistiques et
+probabilites
+Objectifs
+Organiser des donnees,
+calculer indicateurs et
+frequences ; modeliser une
+experience
+aleatoire par un tableau ou un
+arbre.
+Vocabulaire statistique
+Une population est etudiee
+selon un caractere. Leffectif
+est le nombre dindividus ; la
+frequence est effectif/total.
+La mediane partage la serie
+ordonnee en deux groupes de
+meme effectif.
+Formules cles
+Moyenne ponderee : x=( nixi)/(
+ni). Variance :
+V=(1/N)ni(xi-x)^2. Ecart-type
+: =sqrtV. Pour
+une equiprobabilite,
+P(A)=nombre de cas
+favorables/nombre de cas
+possibles.
+1. Indicateurs
+Pour une serie quantitative,
+trier les valeurs avant de
+chercher la mediane. Si N est
+impair, cest la
+valeur de rang (N+1)/2 ; si N
+est pair, cest la moyenne des
+valeurs de rang N/2 et N/2+1.
+Lecart-type mesure la
+dispersion autour de la
+moyenne : il est nul si toutes
+les valeurs sont
+identiques.
+Notes : 8, 10, 10, 12, 15.
+Moyenne, mediane et
+ecart-type.
+Etape 1. Moyenne :
+(8+10+10+12+15)/5=11.
+Etape 2. La troisieme valeur
+est 10 : mediane=10.
+Etape 3. Ecarts au carre :
+9,1,1,1,16 ; moyenne=28/5=5,6
+; =sqrt5,6~2,37.
+Conclusion. Moyenne 11,
+mediane 10, ecart-type environ
+2,37.
+2. Probabilites et
+representations
+Une probabilite est comprise
+entre 0 et 1. Levenement
+contraire de A se note A et
+P(A)=1-P(A). Si
+A et B sont incompatibles,
+P(AB)=P(A)+P(B). Un arbre
+pondere porte les probabilites
+sur les
+branches ; la probabilite dun
+chemin est le produit des
+probabilites des branches.
+Une urne contient 3 boules
+rouges et 2 bleues. On tire
+une boule puis une seconde
+sans
+remise. Probabilite de deux
+rouges ?
+Etape 1. Premier tirage rouge
+: 3/5.
+Etape 2. Apres une rouge, il
+reste 2 rouges sur 4 : 2/4.
+Etape 3. Produit du chemin :
+(3/5)x(2/4)=6/20=3/10.
+Conclusion. La probabilite
+vaut 0,3, soit 30 %.
+3. Tableaux et frequences
+Cours de Seconde - page 11
+
+PHYSIQUE-CHIMIE
+Un tableau a double entree
+permet de croiser deux
+caracteres. Les sommes
+marginales donnent
+les effectifs totaux de chaque
+ligne ou colonne. Une
+frequence conditionnelle se
+calcule par
+rapport a la population de
+reference precisee.
+Cours de Seconde - page 12
+
+PHYSIQUE-CHIMIE
+Chapitre 6 - Algorithmique et
+programmation
+Objectifs
+Ecrire un programme Python
+lisible ; utiliser variables,
+conditions, boucles et
+fonctions ;
+tester et expliquer un
+algorithme.
+Instructions fondamentales
+Une variable memorise une
+valeur. Une condition utilise
+if/elif/else. Une boucle for
+repete
+un nombre determine de fois ;
+while repete tant quune
+condition est vraie. Une
+fonction
+regroupe une methode et peut
+renvoyer un resultat avec
+return.
+Bonnes pratiques
+Choisir des noms explicites,
+indenter regulierement,
+commenter lidee et tester des
+cas
+simples, limites et imprevus.
+Attention : range(a,b) va de a
+inclus a b exclu.
+1. Variables et conditions
+Exemple Python :
+x = float(input("x = "))
+if x &gt; 0:
+print("positif")
+elif x == 0:
+print("nul")
+else:
+print("negatif")
+Le programme convertit la
+saisie en nombre decimal puis
+choisit une branche. Tester
+x=3, x=0 et
+x=-2 verifie les trois
+possibilites.
+2. Boucles et accumulation
+Somme des carres de 1 a n :
+s = 0
+for k in range(1, n+1):
+s = s + k**2
+Que renvoie somme_carres(3) ?
+Etape 1. Initialisation s=0.
+Etape 2. k=1 : s=1 ; k=2 : s=5
+; k=3 : s=14.
+Etape 3. La boucle sarrete
+apres k=3 car range(1,4)
+contient 1,2,3.
+Conclusion. Le resultat est
+14.
+3. Fonctions et verification
+Fonction :
+def moyenne(a, b, c):
+return (a+b+c)/3
+Cours de Seconde - page 13
+
+PHYSIQUE-CHIMIE
+Une fonction est testable
+independamment. Pour
+moyenne(10,12,14), on obtient
+12. En
+mathematiques, lalgorithme
+traduit une formule ; en
+sciences, il peut traiter une
+serie de mesures
+ou simuler une evolution.
+A savoir expliquer
+Decrire les entrees, la
+sortie, linvariant de boucle
+(ce qui reste vrai apres
+chaque tour) et
+la complexite intuitive : une
+boucle parcourant n valeurs
+effectue environ n etapes.
+Cours de Seconde - page 14
+
+PHYSIQUE-CHIMIE
+PARTIE II
+PHYSIQUE-CHIMIE
+Cours de Seconde - page 15
+
+PHYSIQUE-CHIMIE
+Chapitre 1 - Constitution et
+transformations de
+la matiere
+Objectifs
+Decrire atomes, ions et
+molecules ; utiliser quantite
+de matiere, concentration et
+gaz
+parfait ; ecrire une equation
+et suivre lavancement.
+Constitution microscopique
+Un atome possede un noyau
+(protons charges + et neutrons
+neutres) entoure delectrons
+charges -. Un ion est un atome
+ou groupe datomes ayant gagne
+ou perdu des electrons.
+Une molecule est un assemblage
+electriquement neutre datomes.
+Formules et unites
+Quantite de matiere n en mol :
+n=m/M, avec m en g et M en
+gmol1. Concentration
+molaire c=n/V en molL1 (V en
+L). Gaz parfait : pV=nRT, avec
+p en Pa, V en m^3, T en K et
+R=8,314 Jmol1K1.
+1. Tableau periodique et
+stabilite
+Les elements sont classes par
+numero atomique Z, egal au
+nombre de protons. Dans un
+atome
+neutre, le nombre delectrons
+vaut Z. La charge dun ion
+depend du nombre delectrons
+perdus ou
+gagnes : Na devient Na+ en
+perdant un electron ; Cl
+devient Cl en gagnant un
+electron.
+2. Equations chimiques
+Une equation traduit une
+transformation en respectant
+la conservation des elements
+et de la
+charge. Les coefficients
+stchiometriques se choisissent
+entiers et minimaux. Letat
+physique peut
+etre indique : (s), (l), (g),
+(aq).
+Combustion du methane CH4 dans
+le dioxygene.
+Etape 1. Compter C : un CO2 ;
+H : deux H2O.
+Etape 2. Compter O dans les
+produits : 2+2=4, donc 2 O2
+dans les reactifs.
+Conclusion. CH4 + 2 O2 -> CO2
++ 2 H2O.
+3. Avancement et reactif
+limitant
+Pour aA+bB->cC+dD, a
+lavancement x : n(A)=n0(A)-ax
+et n(B)=n0(B)-bx. Lavancement
+maximal
+est limite par le premier
+reactif epuise : x
+=min(n0(A)/a ; n0(B)/b).
+max
+2H2+O2->2H2O avec n0(H2)=3 mol
+et n0(O2)=1 mol.
+Etape 1. Ratios disponibles :
+H2 : 3/2=1,5 ; O2 : 1/1=1.
+Etape 2. Le minimum est 1 : x
+=1 mol, donc O2 est limitant.
+max
+Etape 3. Etat final : H2=1
+mol, O2=0, H2O=2 mol.
+Conclusion. Le dioxygene est
+totalement consomme et il
+reste 1 mol de dihydrogene.
+Cours de Seconde - page 16
+
+PHYSIQUE-CHIMIE
+4. Exemple de quantite de
+matiere
+Quelle quantite de matiere
+dans 5,85 g de NaCl ?
+M(NaCl)=58,5 gmol1.
+Etape 1. Appliquer n=m/M.
+Etape 2. n=5,85/58,5=0,100
+mol.
+Conclusion. n=0,100 mol.
+Cours de Seconde - page 17
+
+PHYSIQUE-CHIMIE
+Chapitre 2 - Mouvement et
+interactions
+Objectifs
+Choisir un referentiel ;
+calculer vitesse et
+acceleration ; representer les
+forces ; relier
+travail, energie et puissance.
+Mouvement et referentiel
+Un mouvement se decrit par
+rapport a un referentiel. La
+vitesse moyenne est la
+distance
+parcourue divisee par la
+duree. Lacceleration mesure la
+variation du vecteur vitesse.
+Lois et formules
+Poids : P=mg (N), g~9,81 Nkg1.
+Deux masses sattirent :
+F=Gm1m2/r^2. Energie cinetique
+:
+E =12mv^2 (J). Travail dune
+force constante : W=Fdcos (J).
+Puissance moyenne : P=W/t
+c
+(W).
+1. Forces et principe dinertie
+Une force est modelisee par un
+vecteur : point dapplication,
+direction, sens et valeur. Le
+principe
+dinertie affirme que si la
+resultante des forces est
+nulle, le mouvement est
+rectiligne uniforme (ou
+le repos) dans un referentiel
+galileen. Reciproquement, une
+acceleration signale une
+resultante
+non nulle.
+2. Principe fondamental de la
+dynamique
+F = m a
+La resultante des forces a la
+meme direction et le meme sens
+que lacceleration ; sa valeur
+sexprime en newtons si m est
+en kg et a en ms^2.
+Un chariot de 2,0 kg recoit
+une force resultante
+horizontale de 6,0 N.
+Etape 1. Appliquer a=F/m.
+Etape 2. a=6,0/2,0=3,0 ms^2.
+Conclusion. Lacceleration vaut
+3,0 ms^2 dans le sens de la
+force.
+3. Energie et travail
+Le travail dune force est
+moteur si cos>0, resistant si
+cos<0 et nul si =90 deg . Le
+theoreme de
+lenergie cinetique donne E
+=W(F). Pres de la Terre,
+lenergie potentielle de
+pesanteur peut etre
+c
+ecrite E =mgh, avec h mesuree
+par rapport a un niveau
+choisi.
+pp
+Cours de Seconde - page 18
+
+PHYSIQUE-CHIMIE
+Une voiture de 1000 kg passe
+de 10 a 20 ms1.
+Etape 1. Eci=12x1000x10^2=50
+000 J.
+Etape 2. Ecf=12x1000x20^2=200
+000 J.
+Etape 3. Variation : Ec=150
+000 J.
+Conclusion. Le travail de la
+resultante vaut 1,50x105 J.
+4. Gravitation et puissance
+La force gravitationnelle
+diminue comme linverse du
+carre de la distance. Pour un
+appareil
+fournissant un travail de 600
+J en 20 s, la puissance
+moyenne vaut 600/20=30 W.
+Cours de Seconde - page 19
+
+PHYSIQUE-CHIMIE
+Chapitre 3 - Ondes et signaux
+Objectifs
+Distinguer ondes mecaniques et
+electromagnetiques ; relier
+periode, frequence, celerite
+et
+longueur donde ; expliquer
+refraction et spectres.
+Definitions et formule donde
+Une onde est une perturbation
+qui se propage en transportant
+de lenergie sans transport
+global de matiere. Une onde
+mecanique necessite un milieu
+materiel ; une onde
+electromagnetique peut se
+propager dans le vide. T est
+la periode (s), f la frequence
+(Hz),
+la longueur donde (m), v la
+celerite (ms1).
+Loi de propagation
+Pour une onde periodique : v=f
+et f=1/T. Dans le vide, la
+lumiere se propage a
+c~3,00x108 ms1.
+1. Mesurer une periode et une
+frequence
+Une onde a une periode T=2,0
+ms et =0,68 m.
+Etape 1. Convertir T : 2,0
+ms=2,0x10^3 s.
+Etape 2. f=1/T=500 Hz.
+Etape 3. v=f=0,68x500=340 ms1.
+Conclusion. La frequence est
+500 Hz et la celerite 340 ms1.
+2. Refraction et indice
+optique
+Lorsquun rayon passe dun
+milieu a un autre, sa
+direction peut changer : cest
+la refraction.
+Lindice n dun milieu est
+n=c/v, donc il est sans unite
+et superieur ou egal a 1 pour
+un milieu
+transparent usuel.
+Loi de Snell-Descartes : n1
+sin i1 = n2 sin i2
+Les angles se mesurent entre
+le rayon et la normale a la
+surface. Le rayon incident, la
+normale et
+le rayon refracte
+appartiennent au meme plan.
+Air n1=1,00, verre n2=1,50,
+i1=30 deg . Calculer i2.
+Etape 1. sin i2=(n1/n2)sin30
+deg =(1/1,5)x0,5=0,333.
+Etape 2. i2=arcsin(0,333)~19,5
+deg .
+Conclusion. Le rayon se
+rapproche de la normale :
+i2~19,5 deg .
+3. Spectres et niveaux
+denergie
+Un spectre continu contient
+toutes les longueurs donde dun
+domaine. Un spectre de raies
+demission est discontinu et
+caracteristique dune espece.
+Dans le modele de latome, un
+electron
+Cours de Seconde - page 20
+
+PHYSIQUE-CHIMIE
+ne peut occuper que certains
+niveaux denergie. Une
+transition saccompagne de
+labsorption ou
+de lemission dun photon :
+E=hf.
+Schema a reproduire : niveaux
+horizontaux E1<E2<E3 ; fleche
+montante pour une absorption,
+fleche descendante
+pour une emission. Plus la
+transition est energetique,
+plus la frequence du photon
+est grande.
+Cours de Seconde - page 21
+
+PHYSIQUE-CHIMIE
+Chapitre 4 - Signaux et
+capteurs
+Objectifs
+Comprendre une chaine de
+mesure ; exploiter tension,
+courant et resistance ;
+utiliser
+diviseur de tension et
+puissance electrique.
+Chaine de mesure
+Un capteur transforme une
+grandeur physique
+(temperature, lumiere,
+pression...) en signal
+electrique. La chaine comporte
+acquisition, conditionnement,
+traitement puis affichage ou
+action. Un signal analogique
+varie continument ; un signal
+numerique est code.
+Lois electriques
+Tension U en volt (V),
+intensite I en ampere (A),
+resistance R en ohm (). Loi
+dOhm pour
+un conducteur ohmique : U=RI.
+Puissance electrique recue :
+P=UI (W).
+1. Mesures et branchements
+Un voltmetre se branche en
+derivation aux bornes du
+dipole ; un amperemetre en
+serie. Une
+mesure doit preciser unite,
+calibre et incertitude si elle
+est demandee. Pour une
+resistance, la
+caracteristique U=f(I) est une
+droite passant par lorigine et
+sa pente vaut R.
+Une resistance de 220 est
+traversee par I=15 mA.
+Etape 1. Convertir 15 mA=0,015
+A.
+Etape 2. U=RI=220x0,015=3,30
+V.
+Conclusion. La tension vaut
+3,30 V.
+2. Association en serie et
+diviseur
+Dans un circuit serie, le
+courant est le meme dans les
+dipoles et les tensions
+sadditionnent. Avec
+deux resistances en serie
+alimentees par U , la tension
+aux bornes de R2 vaut :
+e
+U2 = Ue x R2/(R1+R2)
+Ue=12 V, R1=1,0 k et R2=2,0 k.
+Etape 1. Les resistances sont
+dans la meme unite.
+Etape 2. U2=12x2/(1+2)=8,0 V.
+Conclusion. La sortie du
+diviseur fournit 8,0 V.
+3. Puissance et energie
+La puissance traduit un debit
+denergie : P=E/t. En regime
+continu, P=UI ; avec la loi
+dOhm,
+P=RI^2 ou P=U^2/R. Lenergie
+consommee sur une duree t vaut
+E=Pt (en joules si P en watts
+et t en
+secondes).
+Cours de Seconde - page 22
+
+PHYSIQUE-CHIMIE
+Une lampe fonctionne sous 6,0
+V et absorbe 0,50 A pendant 10
+min.
+Etape 1. P=UI=6,0x0,50=3,0 W.
+Etape 2. t=10x60=600 s ;
+E=Pt=3,0x600=1800 J.
+Conclusion. La puissance est
+3,0 W et lenergie 1,8 kJ.
+Schema a reproduire
+Grandeur physique -> capteur
+-> tension/courant mesure ->
+convertisseur/logiciel ->
+affichage. Indiquer le sens du
+signal et les unites a chaque
+etape.
+Cours de Seconde - page 23
+
+PHYSIQUE-CHIMIE
+Fiche de synthese - reflexes a
+adopter
+En mathematiques
+Identifier le domaine ;
+choisir la representation
+adaptee ; ecrire la propriete
+avant le calcul
+; controler un signe et une
+unite ; interpreter le
+resultat dans le contexte.
+En physique-chimie
+Faire un schema et choisir un
+systeme ; convertir les unites
+; isoler la grandeur cherchee
+dans la loi ; remplacer par
+les valeurs avec unites ;
+verifier lordre de grandeur et
+conclure
+par une phrase.
+Formules transversales a
+connaitre
+n=m/M - c=n/V - pV=nRT - F=ma
+- E =12mv^2 - v=f - U=RI -
+P=UI
+c
+Fin du cours - penser a
+completer les schemas et a
+refaire les exemples sans
+regarder les etapes.
+Cours de Seconde - page 24

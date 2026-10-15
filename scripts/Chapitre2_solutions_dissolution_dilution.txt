@@ -1,0 +1,244 @@
+Chapitre 2 : TD sur les
+solutions
+Notions et contenus, capacites
+exigibles
+Solvant, solute.
+- Identifier le solute et le
+solvant a partir de la
+composition ou du mode
+operatoire de preparation dune
+solution.
+Concentration en masse,
+concentration maximale dun
+solute.
+- Distinguer la masse
+volumique dun echantillon et
+la concentration en masse dun
+solute au sein dune solution.
+- Determiner la valeur de la
+concentration en masse dun
+solute a partir du mode
+operatoire de preparation
+dune solution par dissolution
+ou par dilution.
+Mesurer des masses pour
+etudier la variabilite du
+volume mesure par une piece de
+verrerie ; choisir et utiliser
+la verrerie adaptee
+pour preparer une solution par
+dissolution ou par dilution.
+Dosage par etalonnage.
+- Determiner la valeur dune
+concentration en masse et dune
+concentration maximale a
+partir de resultats
+experimentaux.
+Determiner la valeur dune
+concentration en masse a laide
+dune gamme detalonnage
+(echelle de teinte ou mesure
+de masse
+volumique).
+Capacite mathematique :
+utiliser une grandeur quotient
+pour determiner le numerateur
+ou le denominateur.
+Activites documentaires, TP,
+exercices
+TP2a : Preparer une solution
+par dissolution
+Cours : Solution, solute et
+solvant - Concentration en
+masse page 35
+Preparation de solution par
+dissolution page 36
+TP2b : Preparation dune
+echelle de teintes
+Cours : Preparation dune
+solution par dilution page 36
+- Dosages a laide dune gamme
+detalonnage
+Exercices
+En autonomie : QCM page 39,
+exercices resolus (1 et 2
+pages 40 et 41), exercices
+corriges pages 42 a 48 (3, 5,
+7, 9, 11,
+14, 16, 18, 20, 22, 24, 26,
+28, 29, 36, 37)
+Appliquer le cours : 4, 5, 6,
+8, 12, 13, 15, 17 pages 42 -
+43
+21, 23 page 44 - 24 page 44 -
+27 page 45
+Sentrainer : 30 page 46 - 31
+page 46
+
+1- Quest-ce quune solution, un
+solvant, un solute ?
+Une solution est un ..........
+..............................
+.............................
+obtenu par lintroduction :
+- dun solute : espece chimique
+minoritaire qui va se
+dissoudre ;
+- dans un solvant : espece
+chimique majoritaire (exemple
+: leau pour une solution
+aqueuse)
+2- Comment preparer une
+solution ?
+https://www.youtube.com/watch?
+v=7y0wohip4q4&lc=z12pddiq1wecg
+jkgz04cdp4xbn2mj11bcyg0k
+Il existe deux methodes de
+preparation dune solution :
+a. par dissolution en
+utilisant une ................
+.............................
+Etape 1 : Pesee du solute
+Etape 2 :
+- Tarer la balance avec la
+coupelle vide. - Introduire le
+solute dans la fiole jaugee
+grace a lentonnoir.
+- Grace a la spatule, deposer
+le solute dans la - Rincer la
+coupelle et lentonnoir a leau
+distillee afin de
+coupelle jusqua la masse
+desiree. recuperer tout le
+solute.
+solute
+spatule
+coupelle
+Balance
+electronique
+Etape 3 :
+- Ajouter de leau distillee
+jusquau 34 de la fiole.
+- Boucher puis agiter pour
+homogeneiser la solution.
+Etape 4 :
+- Remplir precisement a leau
+distillee jusquau trait de
+jauge.
+- Boucher la fiole puis
+secouer pour homogeneiser.
+Solution
+terminee
+b. par dilution en utilisant
+une ..........................
+................... et une ...
+..............................
+.....................
+Etape 1 :
+- Verser la solution mere dans
+un becher.
+- Prelever la solution mere
+apres avoir rince la pipette
+jaugee avec leau distillee et
+la
+solution mere.
+- Verser ce prelevement dans
+la fiole jaugee.
+Etape 2 :
+- Ajouter de leau distillee
+jusqua environ 34 de la fiole.
+- Boucher la fiole et secouer
+pour homogeneiser la solution.
+Solution
+mere
+
+Solution
+fille
+Etape 3 :
+- Remplir precisement a leau
+distillee jusquau trait de
+jauge.
+- Boucher la fiole puis
+secouer pour homogeneiser.
+3- Quest-ce que la
+concentration en masse ?
+La concentration en masse
+notee C ou titre massique
+notee t indique ..............
+..............................
+.......... dissous
+m
+dans ........................
+de solution. On peut
+determiner une concentration
+en masse par le calcul en
+utilisant la relation
+suivante : ...................
+.............................
+............
+..............................
+............ t (ou C ) =
+msolute
+m
+Vsolution ....................
+.........................
+.............
+..........
+Experimentalement, on peut
+determiner une concentration
+en masse en effectuant un
+dosage
+par.........................
+- Si lespece chimique etudiee
+est coloree, on - Sinon, on
+mesure une grandeur physique
+et on
+peut comparer visuellement
+avec trouve la concentration
+en masse par lecture
+..............................
+................ graphique sur
+une ..........................
+.........................
+Masse volumique
+Ne pas confondre concentration
+en
+masse t (ou C ) avec la masse
+m
+volumique .
+Concentration en masse
+Solution mere Solution fille
+Solution que lon doit diluer
+Solution obtenue apres
+dilution
+Exemple : sirop Exemple :
+Sirop + eau
+Autre
+Cafe trop sucre On rajoute de
+exemple :
+et trop fort leau chaude
+- Volume V - Volume V
+0 f
+- Concentration en masse C =
+msucre
+- Concentration en masse C =
+msucre
+m0 mf
+V0 Vf
+- Masse de sucre m sucre = V 0
+x C m0 - Masse de sucre m
+sucre = V f x C mf
+La masse de sucre est
+identique dans les solutions
+mere et fille, on dit quil y a
+conservation de la masse lors
+de la dilution
+Cm0 V
+f
+V x C = V x C ou = = F facteur
+de dilution F est sans unite
+et toujours >1
+0 m0 f mf
+C
+mf
+V0
